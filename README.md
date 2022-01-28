@@ -4,8 +4,14 @@ To Build&Run you will need:
 1.) Visual Studio code
   - ExpressJS
   - Npm for Visual studio code
+
+
 2.) Visual Studio 2022 community edition or equivalent
+
+
 3.) Node.js installed - https://nodejs.org/en/download/
+
+
 4.) Express installed - https://expressjs.com/en/starter/installing.html
 
 The Webapplication acts as a Server to the C# client application therefore the NodeServer and Webserver need to be started first
